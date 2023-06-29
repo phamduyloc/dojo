@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/phamduyloc/dojo/blob/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/phamduyloc/dojo/main/test.yaml",
     "urls": [
         {
-            "url": "https://github.com/phamduyloc/dojo/blob/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/phamduyloc/dojo/main/test.yaml",
             "name": "l0cpd"
         }
     ]
